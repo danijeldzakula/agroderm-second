@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto:100,300&subset=latin,cyrillic-ext);
+/*@import url(http://fonts.googleapis.com/css?family=Roboto:100,300&subset=latin,cyrillic-ext);*/
 #cbh_mobile_widget_wrapper{display:none;}
 .cbh-body *,
 .cbh-body .cbh-wrapper .cbh-item .cbh-input {
@@ -16,6 +16,7 @@
 .cbh-widget {
     overflow: hidden!important;
 }
+/*
 @font-face {
     font-family: cbh-icons;
     src: url('http://abbelt.ru/skins/3109/css/cbh-icons.eot');
@@ -23,6 +24,7 @@
     font-weight: 400;
     font-style: normal;
 }
+*/
 #cbh_widget_wrapper {
     font-family: cbh-icons!important;
     position: absolute;

@@ -80,6 +80,7 @@ header{
     color: white;
     display: flex;
     align-items: center;
+    justify-content: center;
     font-weight: 900;
     letter-spacing: 0.25em;
     font-family: 'PT Sans', sans-serif;
